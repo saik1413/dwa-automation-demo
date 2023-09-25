@@ -1,0 +1,12 @@
+node_modules/
+/test-results/
+/playwright/.cache/
+/test-results/
+/playwright/.cache/
+/test-results/
+/playwright/.cache/
+allure-report/
+allure-results/
+allure-reports/
+*.xlsx
+*.tgz
